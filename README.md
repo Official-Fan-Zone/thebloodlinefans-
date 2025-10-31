@@ -4,6 +4,13 @@ FanCardShop: The celebrity Fan Card Shop connects passionate fans with their fav
 
 How it works: How It Works: Mint Your Fan Card; Fans can securely purchase, or “mint”, their unique, non-transferable Fan Card. Each card is a digital asset and your ticket to exclusive content, events, and special rewards.
 
+## Features
+- Responsive fan card gallery
+- Admin Tools (password: 19moosty99)
+- Built-in QR code generator
+- Light/Dark theme toggle
+- GitHub Pages-ready
+
 Instant Verification: Every card acts as a dynamic ID. Using the proprietary FanCardShop protocol, ownership is instantly verified, ensuring access to member-only areas, pre-sales, and voting opportunities.
 
 Engage & Connect: The system fuels a constant two-way exchange: fans get exclusive perks, and creators receive proof of loyalty and engagement.
